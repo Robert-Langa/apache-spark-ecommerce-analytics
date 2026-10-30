@@ -1,0 +1,12 @@
+
+order_id,customer_id,product,category,quantity,unit_price,order_date
+1001,C001,Laptop,Electronics,1,1200.00,2026-01-05
+1002,C002,Mouse,Electronics,2,25.00,2026-01-08
+1003,C003,Keyboard,Electronics,1,75.00,2026-01-12
+1004,C001,Office Chair,Furniture,1,250.00,2026-02-03
+1005,C004,Desk,Furniture,1,400.00,2026-02-10
+1006,C002,Monitor,Electronics,2,300.00,2026-02-15
+1007,C005,Notebook,Stationery,5,8.00,2026-03-02
+1008,C003,Pen Set,Stationery,3,12.00,2026-03-08
+1009,C001,Laptop,Electronics,1,1200.00,2026-03-15
+1010,C004,Mouse,Electronics,3,25.00,2026-03-20
